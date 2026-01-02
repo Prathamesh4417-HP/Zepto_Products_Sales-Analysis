@@ -57,7 +57,7 @@ The dataset contains detailed product-level information, including:
 ## 🖼️ Project Snapshot
 
 <p align="center">
-  <img src="screenshots/zepto_sql_snapshot.png" 
+  <img src="[screenshots/zepto_sql_snapshot.png](https://github.com/Prathamesh4417-HP/Zepto_Products_Sales-Analysis/blob/master/Zepto-Snapshot.png)" 
        alt="Zepto Products Sales Data Analysis using PostgreSQL in pgAdmin" 
        width="900"/>
 </p>
